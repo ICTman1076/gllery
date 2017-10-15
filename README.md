@@ -5,3 +5,5 @@ which allows them to easily share, provide downloads and even license to people!
 This repo contains gllery's core - it does not provide an interface. Another repo to cover that is to come.
 
 There's not much else really. Contributions will currently be rejected as we get off the ground. **We do not recommend you download gllery yet, as it won't work.**
+
+Check out our plans: https://trello.com/b/dGkf6qGR/gllery
